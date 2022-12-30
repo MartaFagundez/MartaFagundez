@@ -12,7 +12,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,java,hibernate,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,java,hibernate,postgres" />
   </a>
 </p> <br>
 
@@ -28,7 +28,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,vscode,eclipse,ai,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,git,vscode,eclipse,ai,ps,wordpress" />
   </a>
 </p> <br>
 
