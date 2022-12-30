@@ -20,7 +20,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,svelte,nestjs,py,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=ts,svelte,nextjs,nestjs,py,docker,mongodb" />
   </a>
 </p> <br>
 
