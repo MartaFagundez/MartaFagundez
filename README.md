@@ -6,9 +6,9 @@
 
 <p align="left">
 Welcome to my profile! </br>I’m currently a <strong>Full Stack Development student</strong> at @soyHenry, from Uruguay.
-</p> <br> <br>
+</p> <br>
 
-<h2 align="left">👩‍💻  I’m currently learning</h2>
+<h3 align="left">👩‍💻  I’m currently learning</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
   </a>
 </p> <br>
 
-<h2 align="left">🤓 I am interested to learn</h2>
+<h3 align="left">🤓 I am interested to learn</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
   </a>
 </p> <br>
 
-<h2 align="left">🛠 Tools that I use</h2>
+<h3 align="left">🛠 Tools that I use</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
