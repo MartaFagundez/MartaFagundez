@@ -6,7 +6,7 @@
 
 <p align="left">
 Welcome to my profile! </br>I’m currently a <strong>Full Stack Development student</strong> at @soyHenry, from Uruguay.
-</p> <br>
+</p> 
 
 <h3 align="left">👩‍💻  I’m currently learning</h3>
 
