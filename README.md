@@ -14,7 +14,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,java,hibernate,postgres" />
   </a>
-</p> <br>
+</p>
 
 <h3 align="left">🤓 I am interested to learn</h3>
 
@@ -22,7 +22,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,svelte,nextjs,nestjs,py,docker,mongodb" />
   </a>
-</p> <br>
+</p>
 
 <h3 align="left">🛠 Tools that I use</h3>
 
@@ -30,7 +30,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=stackoverflow,git,vscode,eclipse,ai,ps,wordpress" />
   </a>
-</p> <br>
+</p>
 
 
 <!---
