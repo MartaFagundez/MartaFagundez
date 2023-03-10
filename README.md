@@ -12,7 +12,7 @@ Welcome to my profile! </br>I’m currently a <strong>Full Stack Development stu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,java,hibernate,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,sequelize,java,hibernate,postgres" />
   </a>
 </p>
 
