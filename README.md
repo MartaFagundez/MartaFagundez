@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/martafagundezrodriguez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/martafagundez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/MartaFagundez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 
 <p align="left">
-Welcome to my profile! </br>I’m currently a <strong>Full Stack Development student</strong> at @soyHenry, from Uruguay.
+Welcome to my profile! </br>I’m a <strong>Full Stack Developer</strong>, from Uruguay.
 </p> 
 
 <h3 align="left">👩‍💻  I’m currently learning</h3>
