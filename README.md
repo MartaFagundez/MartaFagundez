@@ -8,11 +8,25 @@
 Welcome to my profile! </br>I’m a <strong>Full Stack Developer</strong>, from Uruguay.
 </p> 
 
+<h3 align="left">🛠 Tools that I use</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind,nodejs" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,figma,ai,ps,wordpress" />
+  </a>
+</p>
+
 <h3 align="left">👩‍💻  I’m currently learning</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,sequelize,java,hibernate,postgres" />
+    <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,sequelize,java,hibernate,postgres" />
   </a>
 </p>
 
@@ -20,15 +34,7 @@ Welcome to my profile! </br>I’m a <strong>Full Stack Developer</strong>, from 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,svelte,nextjs,nestjs,py,docker,mongodb" />
-  </a>
-</p>
-
-<h3 align="left">🛠 Tools that I use</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,git,vscode,eclipse,ai,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=firebase,gatsby,ts,svelte,nestjs,py,docker" />
   </a>
 </p>
 
