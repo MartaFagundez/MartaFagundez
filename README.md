@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋 My name is Marta Fagúndez</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+My+name+is+Marta+Fagúndez)](https://git.io/typing-svg)</h1>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/martafagundezrodriguez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/martafagundez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> </p>
