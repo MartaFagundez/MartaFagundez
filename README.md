@@ -29,6 +29,7 @@ Welcome to my profile!
     <img src="https://skillicons.dev/icons?i=git,vscode,eclipse,figma,ai,ps,wordpress" />
   </a>
 </p>
+<br>
 
 <h3 align="left">👩‍💻  I’m currently learning</h3>
 
@@ -37,6 +38,7 @@ Welcome to my profile!
     <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,sequelize,java,hibernate,postgres" />
   </a>
 </p>
+<br>
 
 <h3 align="left">🤓 I am interested to learn</h3>
 
@@ -45,6 +47,8 @@ Welcome to my profile!
     <img src="https://skillicons.dev/icons?i=firebase,gatsby,ts,svelte,nestjs,py,docker" />
   </a>
 </p>
+<br>
+<br>
 
 
 <!---
