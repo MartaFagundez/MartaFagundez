@@ -46,13 +46,6 @@
 <br>
 <br>
 
-
-## GitHub Stats 🚀
-![MartaFagundez's Stats](https://github-readme-stats.vercel.app/api?username=MartaFagundez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![MartaFagundez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MartaFagundez&theme=tokyonight&hide_border=true)
-<br>
-<br>
-
 <!---
 MartaFagundez/MartaFagundez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
