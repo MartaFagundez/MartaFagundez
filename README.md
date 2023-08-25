@@ -46,6 +46,9 @@
 <br>
 <br>
 
+<h3>GitHub Stats 🚀</h3>
+![MartaFagundez's Stats](https://github-readme-stats.vercel.app/api?username=MartaFagundez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 
 <!---
 MartaFagundez/MartaFagundez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
