@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,sequelize,java,hibernate,postgres" />
+    <img src="https://skillicons.dev/icons?i=ts,angular,express,sequelize,java,hibernate,postgres" />
   </a>
 </p>
 <br>
@@ -40,7 +40,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,gatsby,ts,svelte,nestjs,py,docker" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,svelte,mongodb,firebase,py,docker" />
   </a>
 </p>
 <br>
