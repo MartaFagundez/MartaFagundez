@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,svelte,gatsby,astro,nestjs,graphql,mongodb,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=vitest,astro,svelte,gatsby,nestjs,graphql,mongodb,docker,aws" />
   </a>
 </p>
 <br>
