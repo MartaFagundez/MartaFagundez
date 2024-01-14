@@ -14,13 +14,13 @@
 
 <h3 align="left">🛠 Tools that I use</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,tailwind,sass,nodejs" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,ai,ps,wordpress" />
   </a>
@@ -29,13 +29,13 @@
 
 <h3 align="left">👩‍💻  I’m currently learning</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,ts,jest,angular,reactivex,express,firebase,supabase,py" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,threejs,styledcomponents,materialui,flask,postgres" />
   </a>
@@ -44,7 +44,7 @@
 
 <h3 align="left">🤓 I am interested to learn</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vitest,svelte,gatsby,astro,nestjs,graphql,mongodb,docker,aws" />
   </a>
