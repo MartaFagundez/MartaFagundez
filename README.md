@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&center=true&vCenter=true&width=1080&height=100&color=e86eb6&lines=I'm+Marta+Fagúndez;I'm+a+Front-End+Developer;Dreaming+Big+and+Working+Hard" alt="Typing SVG" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=85&duration=3500&pause=1250&color=E86EB6&center=true&width=1080&height=120&lines=I'm+Marta+Fag%C3%BAndez;I'm+a+Front+End+Developer;Dreaming+Big+and+Working+Hard" alt="Typing SVG" /></a> </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MartaFagundez/FCC-ResponsiveWebDesign-Projects/master/portfolio/img/laptop3.png"/></p>
