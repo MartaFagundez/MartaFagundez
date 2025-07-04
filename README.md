@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sentry,fastapi,materialui,angular,threejs,jest,express,firebase,supabase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=sentry,fastapi,jest,materialui,angular,threejs,express,firebase,supabase&perline=9" />
   </a>
 </p>
 <br>
