@@ -16,13 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,tailwind,sass,nodejs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma,ai,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,bootstrap,tailwind,sass,vite,nodejs,py,flask,git,github,vscode,postman,figma&perline=9" />
   </a>
 </p>
 <br>
@@ -31,13 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,jest,angular,reactivex,express,firebase,supabase,py" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,threejs,styledcomponents,materialui,flask,postgres" />
+    <img src="https://skillicons.dev/icons?i=sentry,fastapi,materialui,angular,threejs,jest,express,firebase,supabase&perline=9" />
   </a>
 </p>
 <br>
@@ -46,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vitest,astro,svelte,gatsby,nestjs,graphql,mongodb,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=astro,vue,nuxtjs,svelte,graphql,mongodb,vitest,docker,aws&perline=9" />
   </a>
 </p>
 <br>
