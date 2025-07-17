@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,supabase,jest,materialui,threejs,angular,express,firebase,fastapi&perline=9" />
+    <img src="https://skillicons.dev/icons?i=astro,supabase,jest,materialui,threejs,angular,express,fastapi,firebase&perline=9" />
   </a>
 </p>
 <br>
