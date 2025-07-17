@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sentry,fastapi,jest,materialui,angular,threejs,express,firebase,supabase&perline=9" />
+    <img src="https://skillicons.dev/icons?i=astro,supabase,jest,materialui,threejs,angular,express,firebase,fastapi&perline=9" />
   </a>
 </p>
 <br>
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,vue,nuxtjs,svelte,graphql,mongodb,vitest,docker,aws&perline=9" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,svelte,graphql,mongodb,vitest,docker,sentry,aws&perline=9" />
   </a>
 </p>
 <br>
